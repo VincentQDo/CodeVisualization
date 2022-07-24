@@ -21,7 +21,10 @@
 				"dbaeumer.vscode-eslint",
 				"angular.ng-template",
 				"esbenp.prettier-vscode",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"dsznajder.es7-react-js-snippets",
+				"GitHub.github-vscode-theme",
+				"burkeholland.simple-react-snippets"
 			]
 		}
 	},

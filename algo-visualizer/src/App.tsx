@@ -1,11 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import ArrayRepresentation from "./ArrayRepresentation/ArrayRepresentation";
+import LinkedListRepresentation from "./LinkedListVisualization/LinkedListRepresentation";
 
 function App() {
   return (
     <div className="App">
-      <p>Hellos</p>
+      <ArrayRepresentation />
+      <LinkedListRepresentation />
     </div>
   );
 }
